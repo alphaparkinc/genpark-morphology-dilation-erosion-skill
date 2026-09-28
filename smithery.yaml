@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-morphology-dilation-erosion-skill
+name: genpark-morphology-dilation-erosion-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
