@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-morphology-dilation-erosion-skill",
+  "version": "1.0.0",
+  "description": "Binary and grayscale mathematical morphology operators: dilation, erosion, opening, and closing.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
